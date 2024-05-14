@@ -1,4 +1,5 @@
 #we would be using SQL For Cleaning OUR DATA
+
 #In This Project we go through the nashville housing data and work on the following issues
 1. Converting the Date Column Into a Standard Date Format
 2. We Have Some Missing Values Inside Property Address Field. which we fill using The Adjacent Columns (Using JOINS)
